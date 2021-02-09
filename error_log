@@ -1,0 +1,2 @@
+[09-Feb-2021 09:09:07 America/Boise] PHP Warning:  require_once(\xampp\sendmail\sendmail.php): failed to open stream: No such file or directory in /home1/frontif3/public_html/larryhineshwa/mail_handler.php on line 2
+[09-Feb-2021 09:09:07 America/Boise] PHP Fatal error:  require_once(): Failed opening required '\xampp\sendmail\sendmail.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/frontif3/public_html/larryhineshwa/mail_handler.php on line 2

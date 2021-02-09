@@ -1,0 +1,108 @@
+
+
+
+input[type=text], select {
+  width: 100%;
+  padding: 7px 10px;
+  margin: 5px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+input[type=radio] label {
+  
+}
+
+input[type=submit] {
+  width: 100%;
+  }
+
+
+
+#bodydiv {
+  margin-left: 30px;  
+  margin-right: 30px;
+  background-color: transparent;
+
+
+}
+
+#headerdiv {
+  
+  margin-left: 35px;  
+  margin-right: 30px;
+  border-radius: 10px;
+  
+}
+
+table {
+  border-spacing: 10px;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+#inputcell {
+  
+  margin-left: 30px;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 30px;
+  width: 33%;
+  vertical-align: top;
+
+  
+}
+
+#radiocell {
+  
+  margin-left: 30px;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 30px;
+  width: 33%;
+  vertical-align: top;
+
+  
+}
+
+
+#contactinfocell {
+  
+  margin-left: 30px;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 30px;
+  width: 33%;
+  vertical-align: top;
+ 
+  
+}
+
+
+
+body {background-image: url('hwa_house_bkgrnd.jpg'); width: 100%; position: absolute;top: 0; left: 0;
+  
+}
+
+
+
+div {
+  
+  opacity: .9;
+  
+
+
+
+}
+
+form {
+  padding: 10px;
+ 
+}
+
+label {
+  
+}
